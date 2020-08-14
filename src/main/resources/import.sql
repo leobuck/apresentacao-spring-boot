@@ -1,0 +1,1 @@
+insert into Funcionario (nome, data_cadastro, status) values('Leo', '2019-01-01', 1)
